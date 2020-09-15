@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity {
             public void OnItemClicked(int position) {
                 Log.d("MainActivity", "Single Click at position" + position);
                 Intent i = new Intent(MainActivity.this, EditActivity.class);
-                i.
+
 
             }
 
